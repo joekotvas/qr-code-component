@@ -14,8 +14,11 @@
 }
 
 body {
-    height: 100vh;
     margin: 0;
+}
+
+main {
+    height: 100vh;
 }
 
 .qr-code-component {
@@ -93,7 +96,7 @@ body {
 
 .qr-code-component .description {
     margin: 1.5em auto 0;
-    padding: 0 .5em;
+    padding: 0 .75em;
 }
 
 .qr-code-component h1 {
